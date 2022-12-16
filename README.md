@@ -6,3 +6,7 @@ Graceful ruby learning
 1. [Module and Macros](modules_and_macros/)
 
 To run: `ruby console_listener.rb`
+
+2. [Callable](callable/)
+
+To run: `ruby contest.rb`
