@@ -10,3 +10,5 @@ To run: `ruby console_listener.rb`
 2. [Callable](callable/)
 
 To run: `ruby contest.rb`
+
+3. [Blocks](metaprogramming/blocks)
