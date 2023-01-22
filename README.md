@@ -13,4 +13,4 @@ To run: `ruby contest.rb`
 
 3. [Blocks](metaprogramming/blocks)
 
-4. [Ruby Core Objects and Data Structures](metaprogramming/core_objects/)
+4. [Ruby Core Objects and Data Structures](core_objects/)
